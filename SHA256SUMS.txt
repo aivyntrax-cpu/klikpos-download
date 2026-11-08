@@ -1,0 +1,2 @@
+bfe1e69b45b0501e8194ae08b77aad6e0bae6179a62270133270b8de2cd9b374 *KlikPOS_Business_Desktop_Setup.exe
+4074da60adca5f4da88e4def09620813255a70a6b3dcaa7c0ecb6a338c309fac *KlikPOS_Movil_v1.0.apk

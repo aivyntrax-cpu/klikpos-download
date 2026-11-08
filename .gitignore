@@ -1,0 +1,8 @@
+# Ignorar ejecutables y paquetes temporales
+*.exe
+*.apk
+*.zip
+*.tar.gz
+*.iso
+.DS_Store
+Thumbs.db
