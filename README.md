@@ -80,3 +80,4 @@ sha256sum KlikPOS_Movil_v1.0.apk
 
 ---
 © 2026 KlikPOS Technologies. Todos los derechos reservados. Prohibida la reproducción, copia o reventa no autorizada.
+

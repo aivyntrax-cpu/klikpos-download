@@ -1,0 +1,16 @@
+﻿{
+    "mandatory":  false,
+    "version":  "4.0.0",
+    "notes":  [
+                  "Impresión Térmica Perfecta: Calibración dinámica al milímetro para impresoras POS-58 y 80mm. Colapso automático de altura para evitar salida continua de papel en blanco.",
+                  "Margen Protegido 100%: Sincronización automática de Tasa BCV cada hora, al reconectar o al enfocar la pantalla. Recálculo dinámico inmediato de precios en Bolívares.",
+                  "Blindaje Anti-Ingeniería Inversa: Compilación nativa a Bytecode V8 (Bytenode .jsc), ofuscación AST profunda en chunks y purga total de Source Maps.",
+                  "Móvil Satélite \u0026 Full Autónomo v1.0: APK Android firmado y optimizado con ProGuard/R8 para uso sin conexión y sincronización bidireccional."
+              ],
+    "desktopSha256":  "06281C0127AE3AC950EDC1ECFBFF307EA6A7B077FBD874C54E11DB31E728F527",
+    "releaseDate":  "2026-11-09",
+    "windowsUrl":  "/downloads/KlikPOS_Business_Desktop_Setup.exe",
+    "mobileSha256":  "9C98F40D25054BB9177C08DFA6DAA3121E57F92C20A8DEE240C30DDA5635BF39",
+    "title":  "Klikos Enterprise v4.0.0 - Blindaje V8 Bytecode, Impresión Térmica ESC/POS Dinámica y BCV Auto-Sync Horario",
+    "androidUrl":  "/downloads/Kliko_App_Mobile_v1.0.apk"
+}
