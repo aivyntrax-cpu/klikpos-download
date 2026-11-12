@@ -1,16 +1,22 @@
-﻿{
-    "mandatory":  false,
-    "version":  "4.0.0",
-    "notes":  [
-                  "Impresión Térmica Perfecta: Calibración dinámica al milímetro para impresoras POS-58 y 80mm. Colapso automático de altura para evitar salida continua de papel en blanco.",
-                  "Margen Protegido 100%: Sincronización automática de Tasa BCV cada hora, al reconectar o al enfocar la pantalla. Recálculo dinámico inmediato de precios en Bolívares.",
-                  "Blindaje Anti-Ingeniería Inversa: Compilación nativa a Bytecode V8 (Bytenode .jsc), ofuscación AST profunda en chunks y purga total de Source Maps.",
-                  "Móvil Satélite \u0026 Full Autónomo v1.0: APK Android firmado y optimizado con ProGuard/R8 para uso sin conexión y sincronización bidireccional."
-              ],
-    "desktopSha256":  "06281C0127AE3AC950EDC1ECFBFF307EA6A7B077FBD874C54E11DB31E728F527",
-    "releaseDate":  "2026-11-09",
-    "windowsUrl":  "/downloads/KlikPOS_Business_Desktop_Setup.exe",
-    "mobileSha256":  "9C98F40D25054BB9177C08DFA6DAA3121E57F92C20A8DEE240C30DDA5635BF39",
-    "title":  "Klikos Enterprise v4.0.0 - Blindaje V8 Bytecode, Impresión Térmica ESC/POS Dinámica y BCV Auto-Sync Horario",
-    "androidUrl":  "/downloads/Kliko_App_Mobile_v1.0.apk"
+{
+    "mandatory": false,
+    "version": "4.1.0",
+    "notes": [
+        "Impresi\u00f3n T\u00e9rmica Perfecta: Calibraci\u00f3n din\u00e1mica al mil\u00edmetro para impresoras POS-58 y 80mm. Colapso autom\u00e1tico de altura para evitar salida continua de papel en blanco.",
+        "Margen Protegido 100%: Sincronizaci\u00f3n autom\u00e1tica de Tasa BCV cada hora, al reconectar o al enfocar la pantalla. Rec\u00e1lculo din\u00e1mico inmediato de precios en Bol\u00edvares.",
+        "Blindaje Anti-Ingenier\u00eda Inversa: Compilaci\u00f3n nativa a Bytecode V8 (Bytenode .jsc), ofuscaci\u00f3n AST profunda en chunks y purga total de Source Maps.",
+        "M\u00f3vil Sat\u00e9lite & Full Aut\u00f3nomo v1.0: APK Android firmado y optimizado con ProGuard/R8 para uso sin conexi\u00f3n y sincronizaci\u00f3n bidireccional."
+    ],
+    "desktopSha256": "06281C0127AE3AC950EDC1ECFBFF307EA6A7B077FBD874C54E11DB31E728F527",
+    "releaseDate": "2026-11-12",
+    "windowsUrl": "/downloads/KlikPOS_Business_Desktop_Setup.exe",
+    "mobileSha256": "9C98F40D25054BB9177C08DFA6DAA3121E57F92C20A8DEE240C30DDA5635BF39",
+    "title": "Klikos Enterprise v4.0.0 - Blindaje V8 Bytecode, Impresi\u00f3n T\u00e9rmica ESC/POS Din\u00e1mica y BCV Auto-Sync Horario",
+    "androidUrl": "/downloads/Kliko_App_Mobile_v1.0.apk",
+    "tabletSha256": "A5A6EC55B8B59E57EA812C2D68C6AF94D987600FA0EDC338F7EAE424ABD8F6D6",
+    "tabletUrl": "https://github.com/aivyntrax-cpu/klikpos-download/raw/master/KlikPOS_Tablet_Retail_v1.0.apk",
+    "mobileRetailSha256": "3FFE5691EE7EF16F6FA85AB8A57FCFE5B26CD8BF900180F62068A0EC94A5EBAB",
+    "mobileRetailUrl": "https://github.com/aivyntrax-cpu/klikpos-download/raw/master/KlikPOS_Movil_Retail_v1.2.apk",
+    "sateliteSha256": "1E9D1985579E93D4A417452C6DF26373315412EEB39BAD232CAA1E823D311C21",
+    "sateliteUrl": "https://github.com/aivyntrax-cpu/klikpos-download/raw/master/KlikPOS_Satelite_v1.2.apk"
 }
